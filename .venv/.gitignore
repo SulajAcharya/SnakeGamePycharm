@@ -1,0 +1,6 @@
+# created by virtualenv automatically
+*
+
+# Except for specific files and folders
+!.gitignore
+!.venv/
