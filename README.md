@@ -36,7 +36,7 @@ This project is a **classic Snake Game** implemented in Python using the **Pygam
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your_username/SnakeGamePycharm.git
+   git clone https://github.com/SulajAcharya/SnakeGamePycharm.git
    cd SnakeGamePycharm
 
 2. **Install Dependencies**: Ensure you have Python installed on your system. Then, install the required library:
